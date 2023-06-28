@@ -1,4 +1,4 @@
-# ps-winservices
+# ps-list-winservices
 
 This script works as follows:
 
